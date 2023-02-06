@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: black;
+}
+
+.contact{
+    color: white;
+    margin-top: 300px;
+    margin-left: 400px;
+}

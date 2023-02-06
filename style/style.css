@@ -35,10 +35,19 @@ a{
     text-decoration: none;
 }
 .navbar{
+    margin: -30px;
     background-color: black;
     margin-top: -276px;
     border-radius: 5%;
+    align-items: center;
 }
 .navbar :hover{
     background-color: white;
+}
+
+.portfolio{
+    margin-right: 30px;
+}
+h1.portfolio {
+    margin-top: -58px;
 }
